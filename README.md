@@ -1,2 +1,2 @@
-# nodeauth@Github
+# nodeauth
 nodejs using passport for backend office authentication 
